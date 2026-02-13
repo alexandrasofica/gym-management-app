@@ -7,7 +7,7 @@ Există persoane care doresc sa îmbunătățirea stilului propriu de viață, d
 #4. service -> Logica -> calcule calorice, generare planuri
 #5. model -> Clasele de obiecte
 #6. util -> Conexiunea la baza de date si procesarea datelor
-	<<<<<<<<<< Funcționalități ADMIN>>>>>>>>>>
+#	<<<<<<<<<< Funcționalități ADMIN>>>>>>>>>>
 1. Gestionare utilizatori 
 ->Înregistrare cont nou 
 ->Autentificare 
