@@ -56,6 +56,7 @@ Există persoane care doresc sa îmbunătățirea stilului propriu de viață, d
 ->Ultimul plan de dietă generat  
 
 <<<<<<<<<< Imagini >>>>>>>>>>
+
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d4cf355d-57aa-4fd6-998e-3717b03d75ce" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/97ab279a-de8b-4a49-895c-0ea4c38e9695" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8c91a8ce-f0c8-4b9c-b4bf-6683619b2470" />
