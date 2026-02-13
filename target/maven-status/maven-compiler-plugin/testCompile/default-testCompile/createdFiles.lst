@@ -1,0 +1,6 @@
+test\service\DietServiceTest$LocalDietPlanDao.class
+test\service\FitnessServiceTest$InMemoryFitnessGoalDao.class
+test\service\FitnessServiceTest.class
+test\service\DietServiceTest.class
+test\service\SubscriptionServiceTest$InMemorySubscriptionDao.class
+test\service\SubscriptionServiceTest.class
