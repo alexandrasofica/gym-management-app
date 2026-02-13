@@ -62,7 +62,7 @@ Există persoane care doresc sa îmbunătățirea stilului propriu de viață, d
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8c91a8ce-f0c8-4b9c-b4bf-6683619b2470" /> 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d42eea35-1426-4ab9-a2d2-71dd549c246c" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/88c8f851-c0d0-4445-ab07-ab4cafa9e648" />
-
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/e57a7e12-7a77-486e-b170-13699001173c" />
 
 
 
