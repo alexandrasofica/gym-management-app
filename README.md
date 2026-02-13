@@ -24,7 +24,7 @@ Există persoane care doresc sa îmbunătățirea stilului propriu de viață, d
 ->Adăugare rezervare  
 ->Ștergere rezervare  
 
-<<<<<<<<<< Funcționalități CLENT>>>>>>>>>>
+<<<<<<<<<< Funcționalități CLIENT>>>>>>>>>>
 
 1. Gestionare utilizatori  
 ->Înregistrare cont nou  
