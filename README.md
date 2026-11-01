@@ -1,6 +1,6 @@
 <<<<<<<<<<Scopul proiectului >>>>>>>>>>
 
-Există persoane care doresc sa îmbunătățirea stilului propriu de viață, dar nu au idee de unde să înceapă. Pe internet există o mulțime de informații nefiltrate care nu sunt întotdeauna potrivite pentru oricine. În ajutorul acestor oameni vine Gym Management App. Aceasta nu doar că te va ajuta să îți găsești un abonament potrivit pentru tine, dar îți va sugera un punct de plecare adaptat nevoilor tale. Aplicația te va ajuta să găsești rutina de sport potrivită pentru tine susținută de un plan dietetic echilibrat.
+Există persoane care doresc îmbunătățirea stilului propriu de viață, dar nu au idee de unde să înceapă. Pe internet există o mulțime de informații nefiltrate care nu sunt întotdeauna potrivite pentru oricine. În ajutorul acestor oameni vine Gym Management App. Aceasta nu doar că te va ajuta să îți găsești un abonament potrivit pentru tine, dar îți va sugera un punct de plecare adaptat nevoilor tale. Aplicația te va ajuta să găsești rutina de sport potrivită pentru tine susținută de un plan dietetic echilibrat.
 
 # Structura generală a proiectului
 
